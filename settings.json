@@ -1,0 +1,7 @@
+{
+    "PersonalAccessToken": "YOUR_PERSONALACCESSTOKEN_HERE",
+    "Organization": "YOUR_ORGANIZATION",
+    "Project": "YOUR_PROJECT",
+    "TargetBasePath": "C:\\Solutions\\Development\\",
+    "IsTest": false
+}
