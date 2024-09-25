@@ -1,7 +1,7 @@
 {
-    "PersonalAccessToken": "YOUR_PERSONALACCESSTOKEN_HERE",
     "Organization": "YOUR_ORGANIZATION",
     "Project": "YOUR_PROJECT",
+    "PatFilePath": "pat.txt",
     "TargetBasePath": "C:\\Solutions\\Development\\",
     "IsTest": false
 }
